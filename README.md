@@ -85,7 +85,6 @@ medistat-patient-analytics/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/proshanta-pal/Medistat-Hospital-Patient-Analytics.git
-cd medistat-patient-analytics
 ```
 
 ### 2. Install Dependencies
