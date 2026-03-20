@@ -127,6 +127,7 @@ jupyter notebook notebooks/01_eda.ipynb
 
 ## 👤 Author
 
-**Your Name**
-[LinkedIn](www.linkedin.com/in/proshanta-pal) •
+**Proshanta Pal**
+
+[LinkedIn](https://www.linkedin.com/in/proshanta-pal)
 [GitHub](https://github.com/proshanta-pal)
